@@ -1,0 +1,39 @@
+.row {
+    margin: auto;
+    width: 900px;
+    height: 400px;
+}
+.atas {
+    margin: 20px 50px 10px;
+    width: 800px;
+    height: 150px;
+    background-color: lightgreen;
+    border: 1px solid black;
+}
+.column {
+
+    margin: auto;
+    width: 800px;
+    height: 150px;
+    background-color: lightgreen;
+    border: 1px solid black;
+}
+
+
+.orange {
+    float: right;
+    width: 580px;
+    height: 150px;
+    margin-top: 10px;
+    margin-right: 45px;
+    margin-bottom: 15px;
+    background-color: orange;
+}
+.blue {
+    float: right;
+    width: 580px;
+    height: 150px;
+    margin-top: 10px;
+    margin-right: 45px;
+    background-color: lightskyblue;
+}
